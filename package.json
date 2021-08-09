@@ -27,7 +27,8 @@
     "dotenv": "^10.0.0",
     "immutable": "^4.0.0-rc.12",
     "immutable-ext": "^1.1.5",
-    "moment": "^2.24.0"
+    "moment": "^2.24.0",
+    "ramda": "^0.27.1"
   },
   "author": "Bishwajit Jha",
   "license": "ISC",
